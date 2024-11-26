@@ -1,4 +1,5 @@
-import CleaningQuoteCalculator from '@/components/cleaning-quote-calculator'
+import CleaningQuoteCalculator from './cleaning-quote-calculator';
+
 
 export default function Home() {
   return (
